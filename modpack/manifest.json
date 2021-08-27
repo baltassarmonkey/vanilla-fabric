@@ -16,6 +16,28 @@
   "name": "Vanilla Fabric",
   "files": [
     {
+      "projectID": 248787,
+      "fileID": 3420933,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3439042,
+      "required": true,
+      "__meta": {
+        "name": "Fabric API",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 308702,
       "fileID": 3431313,
       "required": true,
