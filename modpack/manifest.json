@@ -14,5 +14,16 @@
   "version": "1.0.0",
   "author": "Baltassar_Monkey",
   "name": "Vanilla Fabric",
-  "files": []
+  "files": [
+    {
+      "projectID": 308702,
+      "fileID": 3431313,
+      "required": true,
+      "__meta": {
+        "name": "Mod Menu",
+        "explicit": true,
+        "dependencies": []
+      }
+    }
+  ]
 }
