@@ -38,6 +38,18 @@
       }
     },
     {
+      "projectID": 263420,
+      "fileID": 3438624,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's Minimap",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 306612,
       "fileID": 3439042,
       "required": true,
@@ -53,6 +65,28 @@
       "required": true,
       "__meta": {
         "name": "Mod Menu",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 317780,
+      "fileID": 3423299,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's World Map",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 459857,
+      "fileID": 3435174,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Fabric)",
         "explicit": true,
         "dependencies": []
       }
